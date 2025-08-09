@@ -2,7 +2,6 @@
 title: 'Binary Search'
 date: 2022-09-02
 permalink: /posts/2022/09/binary-search
-release: true
 categories: 
   - Algorithm
 ---
