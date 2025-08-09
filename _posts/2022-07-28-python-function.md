@@ -2,6 +2,7 @@
 title: 'Python - Map, Filter, Reduce'
 date: 2022-07-28
 permalink: /posts/2022/07/python-function
+release: true
 categories: 
   - Python
 ---

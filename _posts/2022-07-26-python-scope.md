@@ -2,6 +2,7 @@
 title: 'Python - Scope (nonlocal, global)'
 date: 2022-07-26
 permalink: /posts/2022/07/python-scope
+release: true
 categories: 
   - Python
 ---
