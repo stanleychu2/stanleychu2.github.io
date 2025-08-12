@@ -13,7 +13,7 @@ title                    : "Ssu Chiu"
 title_separator          : "-"
 name                     : &name "Ssu Chiu"
 description              : &description "Master Student at NTU"
-url                      : https://stanleychu2.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://www.chiussu.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stanleychu2/stanleychu2.github.io"
 
@@ -85,7 +85,7 @@ publication_category:
   arxiv:
     title: 'Arxiv'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
