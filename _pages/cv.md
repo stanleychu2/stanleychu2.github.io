@@ -20,7 +20,7 @@ Education
   * Double Major in Digital Content & Technologies
   * TA experience: Programming 101 (2020 Spring), Computer Programming (2020 Spring)
 
-Work experience
+Experience
 ======
 * Jul. 2023 – Present: Algorithm Engineer
   * Taboola
@@ -33,16 +33,15 @@ Work experience
   * Smart crop: enhances thumbnail image cropping by saliency detection, significantly reducing the incidence of miscrops
   * Article clustering: analyze keywords and trends for recommending personalized news
 
-* Mar. 2021 – May. 2022: Alexa Prize Taskbot Challenge
+* Mar. 2021 – May. 2022: [Alexa Prize Taskbot Challenge](https://www.amazon.science/alexa-prize/teams/national-taiwan-university-team-miutsu)
   * National Taiwan University Team Miutsu
   * Developed a highly interactive Alexa skill for the U.S. market, which assists users in performing complex cooking and DIY tasks
   * Selected as one of the top ten innovations globally in the Alexa Prize Taskbot Challenge
 
-* Jul. 2019 – Feb. 2020: Research Fellow
-  * Ministry of Science and Technology
+* Jul. 2019 – Feb. 2020: Undergraduate Research Fellowship
+  * Ministry of Science and Technology (MOST) Program
   * CutMat: Analyze the Practicability of Long Read Overlapping based on Integer Interval
   * Investigate the probability of integrating integer interval and Hi-C information
-  * Undergraduate research fellowship, Ministry of Science and Technology (MOST)
 
 * Jul. 2018 – Jun. 2019: Software Engineer Intern
   * NCCU Computer Center
@@ -60,7 +59,7 @@ Skills
   * PyTorch
   * Transformers
   * Natural Language Processing (NLP)
-  * Dialogue Systems
+  * Dialogue Systems / Agentic Workflows
 
 * Web Development
   * FastAPI
@@ -69,14 +68,13 @@ Skills
 
 * Cloud & DevOps
   * Azure (AZ-900 Certified)
-  * AWS
   * Kubernetes
   * Docker
   * Linux
   * Airflow
 
 * Development Tools
-  * Sublime, Xcode, ITerm, Vim, PyCharm
+  * Sublime, ITerm, Vim, PyCharm, Cursor
 
 Publications
 ======
@@ -86,7 +84,7 @@ Publications
 
 Projects
 ======
-* **Careerhack | TSMC × Microsoft**
+* **Careerhack - TSMC × Microsoft**
   * Anomaly Detection, Labeling with AI, Automated Optical Inspection (AOI)
   * Binarize images and build a VGG16, ResNet50 model to detect defective cloth
 
