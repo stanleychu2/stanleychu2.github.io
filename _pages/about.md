@@ -14,4 +14,4 @@ I am Ssu Chiu (邱斯) from Taiwan, my research interests cover Natural Language
 
 I'm currently open to working for <u>Software Engineer</u>, <u>Backend Engineer</u>, and <u>Machine Learning Engineer</u> roles.
 
-For more details, check out my full [CV / Resume](/CV/) and also feel free to contact me via [chiussu0320@gmail.com](mailto:admin@cloudhadoop.com).
+For more details, check out my full [CV / Resume](/cv/) and also feel free to contact me via [chiussu0320@gmail.com](mailto:admin@cloudhadoop.com).
